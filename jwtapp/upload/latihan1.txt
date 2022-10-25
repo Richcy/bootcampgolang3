@@ -1,0 +1,30 @@
+Latihan 1
+=================
+
+Math Shop
+1. Jumlah
+2. Kurang
+3. Bagi
+4. keluar
+Pilihan: ...
+
+------------------
+Pilih 1
+1. Jumlah
+Input bilangan 1: xxx
+Input bilangan 2: xxx
+Hasil jumlah: yyy
+
+------------------
+Math Shop
+1. Jumlah
+2. Kurang
+3. Bagi
+4. keluar
+Pilihan: ...
+
+Pilih 4
+----------
+program exit
+
+
